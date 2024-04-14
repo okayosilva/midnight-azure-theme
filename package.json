@@ -1,0 +1,32 @@
+{
+  "name": "midnight-azure",
+  "displayName": "midnight-azure",
+  "description": "Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "icon": "",
+  "keywords": [
+    "blue",
+    "theme",
+    "dark-blue",
+    "dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kayo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight-azure-theme.json"
+      }
+    ]
+  }
+}
