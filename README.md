@@ -2,7 +2,7 @@
 
 ## Transforme o seu Visual Studio Code em algo verdadeiramente estiloso com um tema Dark, que utiliza tons de azul. Não perca tempo e compartilhe essa novidade com os seus amigos desenvolvedores!
 
-![Tema Midnight Azure](https://raw.githubusercontent.com/okayosilva/midnight-azure-theme/main/bg.png)
+![Tema Midnight Azure](https://raw.githubusercontent.com/okayosilva/midnight-azure-theme/main/bg.png?raw=true)
 
 ## Desenvolvedor do tema: Kayo Silva
 
