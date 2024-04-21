@@ -2,8 +2,8 @@
   "name": "midnight-azure",
   "displayName": "midnight-azure",
   "description": "Theme",	
-  "publisher": "Kayosilva1993",
-  "version": "0.0.1",
+  "publisher": "KayoSilva",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.88.0"
   },
@@ -14,7 +14,7 @@
     "type": "git",
     "url": "https://github.com/okayosilva/midnight-azure-theme"
   },
-  "icon": "",
+  "icon": "icon.png",
   "keywords": [
     "blue",
     "theme",
@@ -24,7 +24,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Kayo",
+        "label": "midnight-azure",
         "uiTheme": "vs-dark",
         "path": "./themes/midnight-azure-theme.json"
       }

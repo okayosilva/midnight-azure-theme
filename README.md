@@ -1,12 +1,8 @@
-# midnight-azure README
+# Tema Midnight Azure 
 
-## Working with Markdown
+## Um tema Dark voltado aos tons de azul para o seu Visual Studio Code ficar muito estiloso! Aproveite e compartilhe com os seus amigos desenvolvedores
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![Tema Midnight Azure]()
 
 ## For more information
 
